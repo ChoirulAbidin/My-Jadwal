@@ -1,0 +1,3 @@
+paham dasar dasar comand linux
+bisa instalasi ubuntu desktop dan server
+installasi moodle dan wordpress
